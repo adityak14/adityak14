@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Aditya Kaushik Jonnavittula</h1>
-<h3 align="center">A Passionate Full-stack developer and an AI/ML enthusiast from India.</h3>
+<h3 align="center">A Passionate Full-stack developer and a current MSCS student at Rutgers university.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityak14&label=Profile%20views&color=0e75b6&style=flat" alt="adityak14" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adityak14" alt="adityak14" /></a> </p>
 
-- 🔭 I’m currently working on **Pizza-Mania**
+- 🔭 I’m currently working as a Software Engineer Intern at **Winlab** & **RCSB-Protein Data Bank**.
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **React.js** and **AWS Cloud Architecture**.
 
 - 📫 How to reach me **aditya.kaushik1213@gmail.com**
 
