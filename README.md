@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adityak14" alt="adityak14" /></a> </p>
 
-- 🔭 I’m currently working as a Software Engineer Intern at **Winlab** & **RCSB-Protein Data Bank**.
-
 - 🌱 I’m currently learning **React.js** and **AWS Cloud Architecture**.
 
 - 📫 How to reach me **aditya.kaushik1213@gmail.com**
