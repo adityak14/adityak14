@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Dockers**, **Kubernetes** and **AWS Cloud Architecture**.
 
-- 📫 How to reach me **aditya.kaushik1213@gmail.com**
+- 📫 How to reach me **aditya.kaushik1213@gmail.com** / **aditya.dev1412@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
